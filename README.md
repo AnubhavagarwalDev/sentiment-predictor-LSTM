@@ -17,12 +17,8 @@ The model is trained on the **IMDB Movie Reviews Dataset** — a widely used ben
 
 ---
 
-## 📂 Project Structure
+## 🏷️ Dataset Used
 
-```plaintext
-.
-├── app.py                 # Streamlit app (main entry point)
-├── tokenizer.pkl          # Saved Tokenizer (trained on IMDB dataset)
-├── lstm_model.keras       # Pre-trained LSTM model
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+- **IMDB Movie Reviews Dataset**  
+  Available on [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+
