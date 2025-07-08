@@ -17,6 +17,32 @@ The model is trained on the **IMDB Movie Reviews Dataset** — a widely used ben
 
 ---
 
+## 🚀 Getting Started
+
+Follow these steps to set up the project and run it on your local machine:
+
+---
+
+### ✅ 1. Clone the Repository
+First, clone this repository:
+```bash
+git clone https://github.com/AnubhavagarwalDev/sentiment-predictor-LSTM.git
+cd sentiment-predictor-LSTM
+ ```
+### ✅ 2. Install dependencies
+``` bash
+pip install -r requirements.txt
+```
+### ✅ 3. Place Required Files
+Ensure the following essential files are present in the project directory:
+
+tokenizer.pkl → The trained tokenizer file used for text tokenization.
+
+sentiment_model.keras → The pre-trained LSTM model file for sentiment prediction.
+
+---
+
+
 ## 🏷️ Dataset Used
 
 - **IMDB Movie Reviews Dataset**  
