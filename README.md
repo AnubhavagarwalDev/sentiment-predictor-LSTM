@@ -12,7 +12,7 @@ The model is trained on the **IMDB Movie Reviews Dataset** — a widely used ben
 - ✅ Automatic text preprocessing (lowercasing, punctuation removal)
 - ✅ Tokenization using saved tokenizer (`tokenizer.pkl`)
 - ✅ Sequence padding (maxlen = 200) to match LSTM input requirements
-- ✅ Sentiment prediction (Positive / Negative) using pre-trained LSTM model (`lstm_model.keras`)
+- ✅ Sentiment prediction (Positive / Negative) using pre-trained LSTM model (`sentiment_model.keras`)
 - ✅ Displays both sentiment label & prediction probability
 
 ---
